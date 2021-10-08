@@ -15,7 +15,7 @@ public class ObjectUtil {
         if (paramMap == null) {
             return "";
         }
-        Map<String, Object> params = new HashMap<>(16);
+        Map<String, Object> params = new HashMap<String, Object>(16);
         for (Map.Entry<String, String[]> param : paramMap.entrySet()) {
 
             String key = param.getKey();
