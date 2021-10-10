@@ -13,8 +13,8 @@
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/src/main/resources" />
           <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
         </sourceRoots>
       </configuration>
     </facet>
@@ -128,5 +128,6 @@
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-spring:1.4.0" level="project" />
     <orderEntry type="module" module-name="xmall-search-interface" />
     <orderEntry type="library" name="Maven: cn.hutool:hutool-all:4.0.5" level="project" />
+    <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
   </component>
 </module>
