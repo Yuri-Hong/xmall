@@ -16,8 +16,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xmall-content/xmall-content-service/xmall-content-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-content/xmall-content-service/xmall-content-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/xmall-manager-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/xmall-manager-dao.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/xmall-manager-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/xmall-manager-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmall-search/xmall-search-service/xmall-search-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-search/xmall-search-service/xmall-search-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/xmall-sso-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/xmall-sso-service.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -620,12 +622,14 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="tbOrderShippingMapper&#9;PSI&#9;JAVA://cn.exrick.manager.service.impl.OrderServiceImpl#tbOrderShippingMapper&#10;setOrderByClause&#9;PSI&#9;JAVA://cn.exrick.manager.pojo.TbItemExample#setOrderByClause&#10;{&#9;null&#9;null&#10;C&#9;FILE&#9;file://D:/桌面/xmall/xmall-manager-web/src/main/java/cn/exrick/controller/ItemController.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/xmall" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35977012" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -2073,7 +2077,10 @@
       <workItem from="1535462527083" duration="767000" />
       <workItem from="1633699688119" duration="4224000" />
       <workItem from="1633703933093" duration="4094000" />
-      <workItem from="1633708054859" duration="3989000" />
+      <workItem from="1633708054859" duration="1948000" />
+      <workItem from="1633746512033" duration="1142000" />
+      <workItem from="1633749757542" duration="217000" />
+      <workItem from="1633750027917" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE]v1.1重构首页完成 优化功能 修复BUG">
       <created>1524125534890</created>
