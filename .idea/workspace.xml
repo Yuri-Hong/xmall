@@ -14,12 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4f3498c-c7a8-433e-85bb-4c00387d3dab" name="Default" comment="[UPDATE]添加hotjar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-content/xmall-content-service/xmall-content-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-content/xmall-content-service/xmall-content-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/xmall-manager-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/xmall-manager-dao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/xmall-manager-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/xmall-manager-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-search/xmall-search-service/xmall-search-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-search/xmall-search-service/xmall-search-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/xmall-sso-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/xmall-sso-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmall-manager-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +97,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
