@@ -268,7 +268,7 @@
     AND
     o.status = 4
     GROUP BY
-    i.item_id
+    i.item_id,i.title,i.pic_path
     ORDER BY
     COUNT(*) DESC
   </select>
