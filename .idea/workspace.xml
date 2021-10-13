@@ -13,42 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4f3498c-c7a8-433e-85bb-4c00387d3dab" name="Default" comment="[UPDATE]添加hotjar">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_content_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_content_service_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_manager_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_manager_service_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_search_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_search_service_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_sso_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_sso_service_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-common/xmall-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-common/xmall-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-content/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-content/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-content/xmall-content-interface/xmall-content-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-content/xmall-content-interface/xmall-content-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-content/xmall-content-service/xmall-content-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-content/xmall-content-service/xmall-content-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-content/xmall-content.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-content/xmall-content.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-front-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-front-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-front-web/xmall-front-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-front-web/xmall-front-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager-web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/xmall-manager-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/xmall-manager-dao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-interface/xmall-manager-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-interface/xmall-manager-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-pojo/xmall-manager-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-pojo/xmall-manager-pojo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/xmall-manager-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/xmall-manager-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-parent/xmall-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-parent/xmall-parent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-search/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-search/xmall-search-interface/xmall-search-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-search/xmall-search-interface/xmall-search-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-search/xmall-search-service/xmall-search-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-search/xmall-search-service/xmall-search-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-search/xmall-search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-search/xmall-search.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-sso/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-sso/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-sso/xmall-sso-interface/xmall-sso-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-sso/xmall-sso-interface/xmall-sso-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/xmall-sso-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/xmall-sso-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-sso/xmall-sso.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-sso/xmall-sso.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/src/main/resources/conf/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/src/main/resources/conf/db.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2113,7 +2079,7 @@
       <workItem from="1633925097351" duration="1707000" />
       <workItem from="1633927908306" duration="1237000" />
       <workItem from="1634026684430" duration="3733000" />
-      <workItem from="1634030943036" duration="6626000" />
+      <workItem from="1634030943036" duration="7723000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE]v1.1重构首页完成 优化功能 修复BUG">
       <created>1524125534890</created>
