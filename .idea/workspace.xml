@@ -13,10 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4f3498c-c7a8-433e-85bb-4c00387d3dab" name="Default" comment="[UPDATE]添加hotjar">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-common/src/main/java/cn/exrick/common/utils/QiniuUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-common/src/main/java/cn/exrick/common/utils/QiniuUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-front-web/src/main/java/cn/exrick/front/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-front-web/src/main/java/cn/exrick/front/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager-web/src/main/java/cn/exrick/manager/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/src/main/java/cn/exrick/manager/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/xmall-manager-web.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -638,7 +637,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35977012" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -2089,7 +2088,8 @@
       <workItem from="1633925097351" duration="1707000" />
       <workItem from="1633927908306" duration="1237000" />
       <workItem from="1634026684430" duration="3733000" />
-      <workItem from="1634030943036" duration="16151000" />
+      <workItem from="1634030943036" duration="18625000" />
+      <workItem from="1634118871090" duration="392000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE]v1.1重构首页完成 优化功能 修复BUG">
       <created>1524125534890</created>

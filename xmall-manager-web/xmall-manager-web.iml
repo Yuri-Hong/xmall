@@ -36,6 +36,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
     <orderEntry type="module" module-name="xmall-manager-interface" />
     <orderEntry type="module" module-name="xmall-manager-pojo" />
     <orderEntry type="module" module-name="xmall-common" />
