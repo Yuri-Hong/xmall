@@ -3,8 +3,10 @@
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration>
-        <fileset id="fileset" name="Springmvc" removed="false">
-          <file>file://$MODULE_DIR$/src/main/resources/springmvc.xml</file>
+        <fileset id="fileset2" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/cn/exrick/front/interceptor/InterceptorConfiguration.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/cn/exrick/front/swagger/Swagger2Config.java</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring/springmvc.xml</file>
         </fileset>
       </configuration>
     </facet>
@@ -23,7 +25,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -34,6 +36,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
     <orderEntry type="module" module-name="xmall-manager-interface" />
     <orderEntry type="module" module-name="xmall-manager-pojo" />
     <orderEntry type="module" module-name="xmall-common" />
