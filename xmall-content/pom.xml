@@ -37,4 +37,6 @@
             </plugin>
         </plugins>
     </build>
+<!--    解决报错：Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::layout::url parameter-->
+
 </project>

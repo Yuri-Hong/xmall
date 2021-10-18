@@ -150,29 +150,29 @@ public class QiniuUtil {
         return UUID.randomUUID().toString().replace("-","")+extName;
     }
 
-    public static String isValidImage(HttpServletRequest request, MultipartFile file){
-        //最大文件大小
-        long maxSize = 5242880;
-        //定义允许上传的文件扩展名
-        HashMap<String, String> extMap = new HashMap<String, String>();
-        extMap.put("image", "gif,jpg,jpeg,png,bmp");
-
-        if(!ServletFileUpload.isMultipartContent(request)){
-            return "请选择文件";
-        }
-
-        if(file.getSize() > maxSize){
-            return "上传文件大小超过5MB限制";
-        }
-        //检查扩展名
-        String fileName=file.getOriginalFilename();
-        String fileExt = fileName.substring(fileName.lastIndexOf(".") + 1).toLowerCase();
-        if(!Arrays.<String>asList(extMap.get("image").split(",")).contains(fileExt)){
-            return "上传文件扩展名是不允许的扩展名\n只允许" + extMap.get("image") + "格式";
-        }
-
-        return "valid";
-    }
+//    public static String isValidImage(HttpServletRequest request, MultipartFile file){
+//        //最大文件大小
+//        long maxSize = 5242880;
+//        //定义允许上传的文件扩展名
+//        HashMap<String, String> extMap = new HashMap<String, String>();
+//        extMap.put("image", "gif,jpg,jpeg,png,bmp");
+//
+//        if(!ServletFileUpload.isMultipartContent(request)){
+//            return "请选择文件";
+//        }
+//
+//        if(file.getSize() > maxSize){
+//            return "上传文件大小超过5MB限制";
+//        }
+//        //检查扩展名
+//        String fileName=file.getOriginalFilename();
+//        String fileExt = fileName.substring(fileName.lastIndexOf(".") + 1).toLowerCase();
+//        if(!Arrays.<String>asList(extMap.get("image").split(",")).contains(fileExt)){
+//            return "上传文件扩展名是不允许的扩展名\n只允许" + extMap.get("image") + "格式";
+//        }
+//
+//        return "valid";
+//    }
 
     public static String checkExt(String fileName,String dirName){
         //定义允许上传的文件扩展名
