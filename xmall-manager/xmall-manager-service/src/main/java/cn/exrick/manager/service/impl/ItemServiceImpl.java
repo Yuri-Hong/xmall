@@ -162,7 +162,7 @@ public class ItemServiceImpl implements ItemService {
         tbItem.setCreated(new Date());
         tbItem.setUpdated(new Date());
         if(tbItem.getImage().isEmpty()){
-            tbItem.setImage("http://ow2h3ee9w.bkt.clouddn.com/nopic.jpg");
+            tbItem.setImage("http://r0wqry3vh.hd-bkt.clouddn.com/123");
         }
         if(tbItemMapper.insert(tbItem)!=1){
             throw new XmallException("添加商品失败");
