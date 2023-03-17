@@ -81,7 +81,7 @@
     <div class="center-container">
         <!--header-->
         <div class="header-w3l">
-            <h1>XMall<span class="title">后台管理系统</span></h1>
+            <h1>快合同<span class="title">后台管理系统</span></h1>
         </div>
         <!--//header-->
         <div class="main-content-agile">
